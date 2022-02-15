@@ -1,0 +1,46 @@
+Code Refactor Starter Code
+
+Horiseon Website.
+
+Purpose
+The following project was a test to determine whether we could develop code and push it to Git Hub.
+
+Built With:
+HTML
+CSS
+
+Description of Work Flow
+
+To begin I pulled files from Git Hub.
+
+Opened the Develop folder and began to added hidden notes to the index.html and to the css file to make the code easier to read. 
+
+Added an "aside" element to the style.css file to simplify the css style sheet.
+
+Eliminated redundancy in the style.css sheet.
+
+Added a privacy Policy HTML page which links to the index.html page with updated content.
+
+Saved and viewed files in VS Code browser.
+
+Applied meaning, context, and functionality to HTML elements by using HTML attributes.
+
+Used Git to create a repository for the project.
+
+Used GitHub to create a remote location for the repository, and then published the project to GitHub Pages for others to see.
+
+The purpose of the Horiseon website is to market a company that specialzies in Internet marketing.
+
+Horiseon specializes in search engine optimization, online reputation management and social media marketing.
+
+The website offers images and information on their services.
+
+Horiseon_Index
+
+Website
+https://c0y01202.github.io/Horiseon/
+
+Contribution
+Modified with ❤️ by Claudia Chittim
+
+©️2022 Horiseon Website.
